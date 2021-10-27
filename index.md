@@ -1,34 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to XenFlix
 
-You can use the [editor on GitHub](https://github.com/xenflix/Explore/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+XenFlix, LLC is an American film and television studio . XenFlix is known for the production of the XenFlix verse, based on Models that appear in XenFlix Pix verse.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### XenFlix verse
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The XenFlix verse is an media gallery of Models shared in series on a XenFlix Pix Verse by XenFlix. 
 
 ```markdown
-Syntax highlighted code block
+Explore XenFlix verse
 
-# Header 1
-## Header 2
-### Header 3
+# XenFlix verse
+## XenFlix Pix verse
+### XenFlix Studio
 
-- Bulleted
-- List
+- Photo
+- Pix
 
-1. Numbered
-2. List
+XenFlix series
+XenFlix verse List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### XenFlix On Net
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xenflix/Explore/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
